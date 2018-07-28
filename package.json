@@ -1,0 +1,30 @@
+{
+  "name": "forchesoftware-static",
+  "version": "1.0.0",
+  "description": "Forche Software's website",
+  "author": "Sujal Shah",
+  "repository": "https://github.com/sujal/Forche-Site",
+  "scripts": {
+    "build": "node index.js && webpack",
+    "build:prod": "NODE_ENV=production npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "clean-webpack-plugin": "^0.1.16",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "handlebars": "^4.0.10",
+    "metalsmith": "^2.3.0",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.5.0",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6",
+    "write-file-webpack-plugin": "^4.1.0"
+  }
+}

@@ -1,0 +1,3 @@
+/* something */
+
+var something = 'hello'
