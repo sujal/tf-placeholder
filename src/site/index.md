@@ -4,12 +4,18 @@ title: The Time Fades Project
 
 <div class="pure-g">
   <div class="banner-header pure-u-1">
-    <a href="/">Time Fades</a>
+    <a href="/">the time fades project</a>
   </div>
 </div>
 
 <div class="pure-g">
   <div class="banner-quote pure-u-1">
+    not everything should be permanent<br>
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="body-text pure-u-1">
     A project to introduce ephemerality to your social media accounts. Hide (if supported) or delete your 
     social media posts after a configurable time interval. This is just a placeholder. 
     If you want to know more, you can read about the origin of the project.<br>
