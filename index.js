@@ -7,8 +7,8 @@ Metalsmith(__dirname)
   .source('src/site/')
   .destination('build')
   .metadata({
-    title: 'forche software',
-    description: 'a software company developing passion projects...',
+    title: 'time fades',
+    description: 'time fades your social posts',
     author: 'sujal shah'
   })
   .use(markdown())
