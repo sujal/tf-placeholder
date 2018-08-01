@@ -10,7 +10,7 @@ title: The Time Fades Project
 
 <div class="pure-g">
   <div class="banner-quote pure-u-1">
-    not everything should be permanent<br>
+    everything shouldn't be permanent<br>
   </div>
 </div>
 
