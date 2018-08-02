@@ -18,7 +18,8 @@ title: The Time Fades Project
   <div class="body-text pure-u-1">
     A project to introduce ephemerality to your social media accounts. Hide (if supported) or delete your 
     social media posts after a configurable time interval. This is just a placeholder. 
-    If you want to know more, you can read about the origin of the project.<br>
+    If you want to know more, you can 
+    <a href="https://fatmixx.com/2018/08/02/time-should-fade-almost-everything/">read about the origin of the project</a>.<br>
   </div>
 </div>
 
